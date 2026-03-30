@@ -40,7 +40,7 @@ This design makes it possible to evaluate not only object perception, but also w
 ## Dataset Scale
 
 - **Total images:** 50,325
-- **Stations:** 63
+- **Stations:** 64
 - **Bounding boxes:** 321,432
 - **Training images:** 40,976
 - **Validation images:** 9,349
