@@ -29,11 +29,11 @@ This design makes it possible to evaluate not only object perception, but also w
 
 ## Highlights
 
-- **Real industrial scenario:** petrochemical unloading under practical surveillance conditions  
-- **Hierarchical labels:** 9 macro steps + 15 micro states  
-- **Sparse-polling setting:** built for intermittent observation rather than dense continuous video  
-- **Challenging factors:** tiny safety-critical cues, long-tailed operational states, cross-site variation, weather and illumination changes  
-- **Engineering-oriented focus:** evaluates practical SOP monitoring under realistic deployment constraints  
+- **Real industrial scenario:** petrochemical unloading under practical surveillance conditions
+- **Hierarchical labels:** 9 macro steps + 15 micro states
+- **Sparse-polling setting:** built for intermittent observation rather than dense continuous video
+- **Challenging factors:** tiny safety-critical cues, long-tailed operational states, cross-site variation, weather and illumination changes
+- **Engineering-oriented focus:** evaluates practical SOP monitoring under realistic deployment constraints
 
 ---
 
@@ -55,7 +55,7 @@ The dataset is available at:
 - **Google Drive:**  
   https://drive.google.com/drive/folders/18IjAGfdUDqEp8LhFv1_KUjGrw4tJdg8G?usp=drive_link
 
-> We recommend downloading the dataset from Google Drive and following the directory structure below.
+> We recommend downloading the dataset from Google Drive and organizing the files according to the directory structure below.
 
 ---
 
@@ -111,4 +111,16 @@ GSO-Net/
 │   └── instances_val2017.json
 ├── splits/
 ├── README.md
-└── LICENSE
+└── LICENSE_DATA.md
+```
+
+---
+
+## License
+
+The **GSO-Net dataset, annotations, and documentation** are licensed under **CC BY-NC 4.0**.
+
+<a href="https://github.com/yuxieHarrison/GSO-Net">GSO-Net dataset, annotations, and documentation</a> © 2026 by <a href="https://github.com/yuxieHarrison">Yu Xie</a> and Bangshu Xiong is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="max-width:1em;max-height:1em;margin-left:.2em;">
+
+For commercial use, licensing inquiries, or permissions beyond the scope of this license, please contact the authors.
+
