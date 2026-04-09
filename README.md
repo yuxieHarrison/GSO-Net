@@ -5,7 +5,7 @@
 > GSO-Net studies SOP understanding in realistic industrial deployment, where procedural status must be inferred from incomplete observations and localized operational evidence rather than dense temporal continuity.
 
 GSO-Net focuses on **petrochemical unloading scenarios** and is designed for **engineering-oriented industrial vision**. The benchmark evaluates whether current models can recover reliable procedural meaning from localized state evidence under practical constraints such as sparse polling, small critical targets, and long-tailed operational states.
-[View the paper PDF](https://github.com/user-attachments/files/26583423/showlabel.pdf)
+[showlabel PDF](https://github.com/user-attachments/files/26583423/showlabel.pdf)
 
 ---
 
