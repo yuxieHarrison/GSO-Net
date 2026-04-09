@@ -34,6 +34,7 @@ This design makes it possible to evaluate not only object perception, but also w
 - **Sparse-polling setting:** built for intermittent observation rather than dense continuous video
 - **Challenging factors:** tiny safety-critical cues, long-tailed operational states, cross-site variation, weather and illumination changes
 - **Engineering-oriented focus:** evaluates practical SOP monitoring under realistic deployment constraints
+![showlabel](https://github.com/user-attachments/assets/90cd5556-9626-46ae-814b-2e90d1bc0f5d)
 
 ---
 
