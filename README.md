@@ -50,9 +50,14 @@ This design makes it possible to evaluate not only object perception, but also w
 
 ---
 
+---
+
 ## Download
 
 The dataset is available at:
+
+- **IEEE DataPort:**  
+  https://ieee-dataport.org/documents/gso-net
 
 - **Google Drive:**  
   https://drive.google.com/drive/folders/18IjAGfdUDqEp8LhFv1_KUjGrw4tJdg8G?usp=drive_link
