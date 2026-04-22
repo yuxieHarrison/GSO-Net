@@ -54,7 +54,7 @@ This design makes it possible to evaluate not only object perception, but also w
 
 ## Download
 
-The dataset is available at:
+The dataset is available from the following sources:
 
 - **IEEE DataPort:**  
   https://ieee-dataport.org/documents/gso-net
@@ -62,9 +62,12 @@ The dataset is available at:
 - **Google Drive:**  
   https://drive.google.com/drive/folders/18IjAGfdUDqEp8LhFv1_KUjGrw4tJdg8G?usp=drive_link
 
-> We recommend downloading the dataset from Google Drive and organizing the files according to the directory structure below.
+- **Baidu Netdisk:**  
+  Link: https://pan.baidu.com/s/1ufVm-d60dfOe22ZRRtmiOg?pwd=6x1e  
+  Extraction Code: `6x1e`
 
----
+> We recommend downloading the dataset from Google Drive or Baidu Netdisk and organizing the files according to the directory structure below.
+
 
 ## Tasks
 
